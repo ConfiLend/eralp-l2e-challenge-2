@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { MessageProcessorContract } from './MessageProcessorContract.js';
 
-export { Add };
+export { MessageProcessorContract };
